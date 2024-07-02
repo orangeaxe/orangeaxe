@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @orangeaxe
+- I'm a student at WGU. Recently earned my CompTIA A+
 - 👀 I’m interested in learning to code and playing guitar, amongst other things.
 - 🌱 I’m currently learning html and css. I learned them twenty years ago, stopped and am not getting back in.
 - 💞️ I’m looking to collaborate on simple (thats a mighty fine word) projects that will press my current level of skill and knowledge.
